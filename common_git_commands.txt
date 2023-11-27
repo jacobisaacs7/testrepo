@@ -1,0 +1,13 @@
+#to create a branch
+git branch jisaacs_local_branch
+
+#to switch to a new branch after creation
+git checkout jisaacs_local_branch
+
+#to review recent commits
+git log
+
+#to revert chagnes
+git revert
+
+#test
