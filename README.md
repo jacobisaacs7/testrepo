@@ -1,5 +1,5 @@
 # testrepo
-this is part of the handson lab for IBM Full Stack Professional Developer Certification
+this is part of the hands on lab for IBM Full Stack Professional Developer Certification
 
 ## Editing the file
 
